@@ -45,14 +45,6 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
-            android:id="@+id/clubStadium"
-            android:text="Estadio Mendizorroza"
-            android:gravity="center_vertical"
-            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1"
             android:id="@+id/clubPoints"
             android:inputType="number"
             android:text="17"
